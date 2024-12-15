@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="498ef27a-2dca-4ca0-84d7-65a7c1c30524" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\rear-end develop\Maven\apache-maven-3.9.6\mvn_repo" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="userSettingsFile" value="D:\rear-end develop\Maven\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="17" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2q6zke874YKdJ0z434Aw8XzLnK6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.lib_manage [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.lib_manage [install,--non-recursive].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.lib_manage [install].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.LibManageApplication.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/rear-end develop/Code/lib_manage/src/main/resources/mapper&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\rear-end develop\Code\lib_manage\src\main\resources\mapper" />
+      <recent name="D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\config" />
+      <recent name="D:\rear-end develop\Code\lib_manage\src\main\resources" />
+      <recent name="D:\rear-end develop\Code\lib_manage\src\main\java\karazuki" />
+      <recent name="D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\pojo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\rear-end develop\Code\lib_manage\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LibManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="lib_manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="karazuki.LibManageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="498ef27a-2dca-4ca0-84d7-65a7c1c30524" name="Changes" comment="" />
+      <created>1733997956334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733997956334</updated>
+      <workItem from="1733997957365" duration="523000" />
+      <workItem from="1733998489229" duration="752000" />
+      <workItem from="1733999311555" duration="1267000" />
+      <workItem from="1734000598083" duration="811000" />
+      <workItem from="1734001446408" duration="1610000" />
+      <workItem from="1734080153879" duration="4365000" />
+      <workItem from="1734085403942" duration="61000" />
+      <workItem from="1734085484058" duration="15000" />
+      <workItem from="1734085529040" duration="19000" />
+      <workItem from="1734085641153" duration="2398000" />
+      <workItem from="1734088099722" duration="1405000" />
+      <workItem from="1734098474924" duration="3486000" />
+      <workItem from="1734147543187" duration="4467000" />
+      <workItem from="1734164393413" duration="3766000" />
+      <workItem from="1734170225399" duration="2602000" />
+      <workItem from="1734173507765" duration="3000" />
+      <workItem from="1734173534627" duration="9000" />
+      <workItem from="1734173568954" duration="211000" />
+      <workItem from="1734173805786" duration="13000" />
+      <workItem from="1734173850672" duration="31000" />
+      <workItem from="1734173911165" duration="830000" />
+      <workItem from="1734174754326" duration="751000" />
+      <workItem from="1734181638556" duration="5648000" />
+      <workItem from="1734189051245" duration="732000" />
+      <workItem from="1734189807854" duration="4840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
