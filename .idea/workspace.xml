@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="498ef27a-2dca-4ca0-84d7-65a7c1c30524" name="Changes" comment="" />
+    <list default="true" id="498ef27a-2dca-4ca0-84d7-65a7c1c30524" name="Changes" comment="lib_manage ver1.0">
+      <change afterPath="$PROJECT_DIR$/src/main/java/karazuki/mapper/SupplierBookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/karazuki/pojo/entity/SupplierBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/karazuki/pojo/vo/SupplierVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/95cb50be-6768-492d-b6c1-908e1774dc67.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/95cb50be-6768-492d-b6c1-908e1774dc67.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/95cb50be-6768-492d-b6c1-908e1774dc67/storage_v2/_src_/schema/lib.haIBAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/95cb50be-6768-492d-b6c1-908e1774dc67/storage_v2/_src_/schema/lib.haIBAA.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/karazuki/controller/SupplierController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/karazuki/controller/SupplierController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/karazuki/service/SupplierService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/karazuki/service/SupplierService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/karazuki/service/impl/SupplierServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/karazuki/service/impl/SupplierServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lib_manage-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/lib_manage-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lib_manage-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/lib_manage-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +29,9 @@
         <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,6 +54,7 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2q6zke874YKdJ0z434Aw8XzLnK6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,7 +72,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;Spring Boot.LibManageApplication.executor&quot;: &quot;Run&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/rear-end develop/Code/lib_manage/src/main/resources/mapper&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/rear-end develop/Code/lib_manage&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -120,10 +136,26 @@
       <workItem from="1734181638556" duration="5648000" />
       <workItem from="1734189051245" duration="732000" />
       <workItem from="1734189807854" duration="4840000" />
+      <workItem from="1734234111374" duration="2068000" />
+      <workItem from="1734337357838" duration="13000" />
+      <workItem from="1734441088545" duration="2167000" />
     </task>
+    <task id="LOCAL-00001" summary="lib_manage ver1.0">
+      <option name="closed" value="true" />
+      <created>1734234227660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734234227660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lib_manage ver1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="lib_manage ver1.0" />
   </component>
 </project>

@@ -2,6 +2,7 @@ package karazuki.controller;
 
 import karazuki.pojo.entity.Result;
 import karazuki.pojo.entity.Supplier;
+import karazuki.pojo.vo.SupplierVO;
 import karazuki.service.SupplierService;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.ibatis.annotations.Delete;
@@ -35,11 +36,11 @@ public class SupplierController {
      * @return
      */
     @GetMapping("{id}")
-    public Result<Supplier> findById(@PathVariable Integer id){
+    public Result<SupplierVO> findById(@PathVariable Integer id){
         log.info("根据id展示供应商信息:{}", id);
-        Supplier supplier = supplierService.findById(id);
+        SupplierVO supplierVO = supplierService.findById(id);
 
-        return Result.success(supplier);
+        return Result.success(supplierVO);
     }
 
     /**

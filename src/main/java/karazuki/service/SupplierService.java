@@ -1,6 +1,7 @@
 package karazuki.service;
 
 import karazuki.pojo.entity.Supplier;
+import karazuki.pojo.vo.SupplierVO;
 
 import java.util.List;
 
@@ -17,7 +18,7 @@ public interface SupplierService {
      * @param id
      * @return
      */
-    Supplier findById(Integer id);
+    SupplierVO findById(Integer id);
 
     /**
      * 新增供应商
