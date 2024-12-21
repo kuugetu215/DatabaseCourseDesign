@@ -25,7 +25,7 @@ public class BookController {
      * @param bookDTO
      * @return
      */
-    @PostMapping()
+    @PostMapping("")
     public Result insert(@RequestBody BookDTO bookDTO){
         log.info("新增书本信息");
         bookService.insert(bookDTO);
@@ -37,8 +37,8 @@ public class BookController {
      * @param bookQueryDTO
      * @return
      */
-    @GetMapping()
-    public Result<List<Book>> list(@RequestBody(required = false) BookQueryDTO bookQueryDTO){
+    @PostMapping("list")
+    public Result<List<Book>> list(@RequestBody BookQueryDTO bookQueryDTO){
         log.info("书本信息查询");
         List<Book> books = bookService.list(bookQueryDTO);
         return Result.success(books);
