@@ -4,18 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="498ef27a-2dca-4ca0-84d7-65a7c1c30524" name="Changes" comment="lib_manage ver1.0">
-      <change afterPath="$PROJECT_DIR$/src/main/java/karazuki/mapper/SupplierBookMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/karazuki/pojo/entity/SupplierBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/karazuki/pojo/vo/SupplierVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/95cb50be-6768-492d-b6c1-908e1774dc67.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/95cb50be-6768-492d-b6c1-908e1774dc67.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/95cb50be-6768-492d-b6c1-908e1774dc67/storage_v2/_src_/schema/lib.haIBAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/95cb50be-6768-492d-b6c1-908e1774dc67/storage_v2/_src_/schema/lib.haIBAA.zip" afterDir="false" />
+    <list default="true" id="498ef27a-2dca-4ca0-84d7-65a7c1c30524" name="Changes" comment="lib_manage ver2.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/karazuki/controller/SupplierController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/karazuki/controller/SupplierController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/karazuki/service/SupplierService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/karazuki/service/SupplierService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/karazuki/service/impl/SupplierServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/karazuki/service/impl/SupplierServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/karazuki/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/karazuki/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/karazuki/pojo/dto/BookQueryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/karazuki/pojo/dto/BookQueryDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/dto/AuthorUpdateDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/dto/AuthorUpdateDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/dto/BookDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/dto/BookDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/dto/BookQueryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/dto/BookQueryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/dto/LoginOrRegisterDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/dto/LoginOrRegisterDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/dto/UserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/dto/UserDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Author.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Author.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Bookshortage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Bookshortage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Purchase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Purchase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Reader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Supplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Supplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/Ticket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/vo/BookShortageVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/vo/BookVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/vo/BookVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/vo/LoginVO$LoginVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/vo/LoginVO$LoginVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/karazuki/pojo/vo/LoginVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/karazuki/pojo/vo/LoginVO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/lib_manage-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/lib_manage-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/lib_manage-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/lib_manage-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +152,10 @@
       <workItem from="1734189807854" duration="4840000" />
       <workItem from="1734234111374" duration="2068000" />
       <workItem from="1734337357838" duration="13000" />
-      <workItem from="1734441088545" duration="2167000" />
+      <workItem from="1734441088545" duration="3256000" />
+      <workItem from="1734444991444" duration="603000" />
+      <workItem from="1734447752014" duration="9000" />
+      <workItem from="1734771497391" duration="1314000" />
     </task>
     <task id="LOCAL-00001" summary="lib_manage ver1.0">
       <option name="closed" value="true" />
@@ -148,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734234227660</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lib_manage ver2.0">
+      <option name="closed" value="true" />
+      <created>1734443901234</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734443901234</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +181,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lib_manage ver1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="lib_manage ver1.0" />
+    <MESSAGE value="lib_manage ver2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="lib_manage ver2.0" />
   </component>
 </project>

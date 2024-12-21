@@ -38,7 +38,7 @@ public class BookController {
      * @return
      */
     @GetMapping()
-    public Result<List<Book>> list(@RequestBody BookQueryDTO bookQueryDTO){
+    public Result<List<Book>> list(@RequestBody(required = false) BookQueryDTO bookQueryDTO){
         log.info("书本信息查询");
         List<Book> books = bookService.list(bookQueryDTO);
         return Result.success(books);

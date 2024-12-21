@@ -20,6 +20,7 @@ D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\mapper\BookshortageMa
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\mapper\PurchaseMapper.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\mapper\ReaderMapper.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\mapper\StoreMapper.java
+D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\mapper\SupplierBookMapper.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\mapper\SupplierMapper.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\mapper\TicketMapper.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\mapper\UserMapper.java
@@ -36,11 +37,12 @@ D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\pojo\entity\Reader.ja
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\pojo\entity\Result.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\pojo\entity\Store.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\pojo\entity\Supplier.java
+D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\pojo\entity\SupplierBook.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\pojo\entity\Ticket.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\pojo\entity\User.java
-D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\pojo\vo\BookShortageVO.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\pojo\vo\BookVO.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\pojo\vo\LoginVO.java
+D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\pojo\vo\SupplierVO.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\service\AuthorService.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\service\BookService.java
 D:\rear-end develop\Code\lib_manage\src\main\java\karazuki\service\BookshortageService.java
